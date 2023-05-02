@@ -1,1 +1,3 @@
+*.bible.IBT.txt - selections from Bible taken from Bible.com
 
+*.narrative.txt - narrative stories and translations taken from Naomi Kipuri's book on oral literatures
